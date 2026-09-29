@@ -1,16 +1,69 @@
-# React + Vite
+# BuiltByNix&Co
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Premium websites built with intention.
 
-Currently, two official plugins are available:
+BuiltByNix&Co is an independent web studio creating modern, purposeful websites for businesses, creators, and individuals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What We Do
 
-## React Compiler
+- Business Websites
+- Landing Pages
+- Portfolio Websites
+- E-commerce
+- Custom Web Solutions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Our Approach
 
-## Expanding the ESLint configuration
+We focus on creating websites that are:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Thoughtful
+- Distinct
+- Responsive
+- Easy to use
+- Built around the client's goals
+
+## Website
+
+The BuiltByNix&Co website serves as the studio's online presence and provides information about our services, plans, process, and website-request process.
+
+## Services
+
+### Business Websites
+Professional digital experiences for businesses and brands.
+
+### Landing Pages
+Focused pages designed around a specific product, service, or goal.
+
+### Portfolio Websites
+Personal and professional websites designed to present work and identity.
+
+### E-commerce
+Online storefronts designed around the products and customers they serve.
+
+### Custom Web Solutions
+Tailored website experiences built around specific requirements.
+
+## Plans
+
+| Plan | Starting Price |
+|---|---:|
+| Demo / Project | ₹500 |
+| Prototype | ₹1,000 |
+| Business | ₹5,000 |
+| Custom | Negotiable |
+
+## Built With
+
+The website is built using modern web technologies and is continuously refined as the studio evolves.
+
+## Contact
+
+For website enquiries, visit the BuiltByNix&Co website and submit a project request.
+
+---
+
+**BuiltByNix&Co**
+
+*Built with purpose.*
+
+© 2026 BuiltByNix&Co. All rights reserved.

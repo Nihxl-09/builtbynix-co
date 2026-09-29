@@ -12,6 +12,7 @@ import logo from "./assets/builtbynix-logo.png";
 import "./App.css";
 import RequestForm from "./components/RequestForm";
 import Reveal from "./components/Reveal";
+import Cursor from "./components/Cursor";
 
 function InstagramIcon({ size = 18 }) {
   return (
@@ -137,6 +138,7 @@ function App() {
 
   return (
     <div className="site-shell">
+      <Cursor />
       <header className={`navbar ${scrolled ? "navbar-scrolled" : ""}`}>
         <button
           className="brand"

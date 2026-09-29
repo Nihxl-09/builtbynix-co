@@ -3890,3 +3890,105 @@ button:not(:disabled):active {
     transform: none;
   }
 }
+
+/* =========================================
+   BUILTBYNIX&CO - CUSTOM CURSOR
+========================================= */
+
+.nix-cursor-dot,
+.nix-cursor-ring {
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 99999;
+  border-radius: 50%;
+  transform: translate3d(-100px, -100px, 0);
+}
+
+.nix-cursor-dot {
+  width: 6px;
+  height: 6px;
+  margin-left: -3px;
+  margin-top: -3px;
+  background: #f4f2ee;
+  box-shadow: 0 0 14px rgba(201, 182, 255, 0.22);
+  transition:
+    width 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+    height 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+    margin 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 0.3s ease;
+}
+
+.nix-cursor-ring {
+  width: 34px;
+  height: 34px;
+  margin-left: -17px;
+  margin-top: -17px;
+  border: 1px solid rgba(244, 242, 238, 0.42);
+  transition:
+    width 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    height 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    margin 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    border-color 0.35s ease,
+    background-color 0.35s ease;
+}
+
+.nix-cursor-ring span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: #c9b6ff;
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+  transition:
+    transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.3s ease;
+}
+
+.nix-cursor-ring.cursor-hover {
+  width: 54px;
+  height: 54px;
+  margin-left: -27px;
+  margin-top: -27px;
+  border-color: rgba(201, 182, 255, 0.7);
+  background: rgba(201, 182, 255, 0.035);
+}
+
+.nix-cursor-ring.cursor-hover span {
+  transform: translate(-50%, -50%) scale(1.8);
+  opacity: 1;
+}
+
+.nix-cursor-dot.cursor-dot-hover {
+  width: 4px;
+  height: 4px;
+  margin-left: -2px;
+  margin-top: -2px;
+  background: #c9b6ff;
+}
+
+@media (hover: none), (pointer: coarse) {
+  .nix-cursor-dot,
+  .nix-cursor-ring {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nix-cursor-dot,
+  .nix-cursor-ring,
+  .nix-cursor-ring span {
+    transition: none;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  body,
+  body * {
+    cursor: none !important;
+  }
+}
