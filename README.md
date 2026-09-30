@@ -4,7 +4,7 @@
 
 **BuiltByNix&Co** is a web services company focused on creating professional, responsive, and visually refined websites for businesses, brands, creators, and individuals.
 
-🌐 **Website:** [Visit BuiltByNix&Co](nihxl-09.github.io/builtbynix-co)
+🌐 **Website:** [Visit BuiltByNix&Co](https://nihxl-09.github.io/builtbynix-co/)
 
 📸 **Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
 
@@ -131,7 +131,7 @@ Visit our website to explore our services and submit a website request.
 
 ## Connect
 
-**Website:** [BuiltByNix&Co](nihxl-09.github.io/builtbynix-co)
+**Website:** [BuiltByNix&Co](https://nihxl-09.github.io/builtbynix-co/)
 
 **Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
 
