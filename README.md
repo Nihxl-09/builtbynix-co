@@ -1,69 +1,151 @@
 # BuiltByNix&Co
 
-> Premium websites built with intention.
+### Premium Web Solutions for Modern Businesses
 
-BuiltByNix&Co is an independent web studio creating modern, purposeful websites for businesses, creators, and individuals.
+**BuiltByNix&Co** is a web services company focused on creating professional, responsive, and visually refined websites for businesses, brands, creators, and individuals.
 
-## What We Do
+🌐 **Website:** [Visit BuiltByNix&Co](nihxl-09.github.io/builtbynix-co)
 
-- Business Websites
-- Landing Pages
-- Portfolio Websites
-- E-commerce
-- Custom Web Solutions
-
-## Our Approach
-
-We focus on creating websites that are:
-
-- Thoughtful
-- Distinct
-- Responsive
-- Easy to use
-- Built around the client's goals
-
-## Website
-
-The BuiltByNix&Co website serves as the studio's online presence and provides information about our services, plans, process, and website-request process.
-
-## Services
-
-### Business Websites
-Professional digital experiences for businesses and brands.
-
-### Landing Pages
-Focused pages designed around a specific product, service, or goal.
-
-### Portfolio Websites
-Personal and professional websites designed to present work and identity.
-
-### E-commerce
-Online storefronts designed around the products and customers they serve.
-
-### Custom Web Solutions
-Tailored website experiences built around specific requirements.
-
-## Plans
-
-| Plan | Starting Price |
-|---|---:|
-| Demo / Project | ₹500 |
-| Prototype | ₹1,000 |
-| Business | ₹5,000 |
-| Custom | Negotiable |
-
-## Built With
-
-The website is built using modern web technologies and is continuously refined as the studio evolves.
-
-## Contact
-
-For website enquiries, visit the BuiltByNix&Co website and submit a project request.
+📸 **Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
 
 ---
 
+## About
+
+BuiltByNix&Co helps clients establish a strong digital presence through thoughtfully designed websites built around their brand, goals, and audience.
+
+Our focus is on combining:
+
+* Professional visual design
+* Responsive experiences
+* Clear content presentation
+* Practical functionality
+* Strong user experience
+* Modern web standards
+
+Every project is approached with attention to both appearance and usability.
+
+---
+
+## Services
+
+### Website Development
+
+Professional websites designed for businesses, personal brands, organizations, and online projects.
+
+### Business Websites
+
+Digital experiences created to help businesses present their services, establish credibility, and connect with potential customers.
+
+### Landing Pages
+
+Focused pages designed around a specific service, product, campaign, or purpose.
+
+### Custom Web Experiences
+
+Tailored website solutions based on a client's requirements, brand identity, and intended audience.
+
+---
+
+## Project Options
+
+BuiltByNix&Co offers different project levels depending on the scope and requirements of the client.
+
+### Demo / Project
+
+**₹500**
+
+A starting option for smaller website concepts, demonstrations, and individual projects.
+
+### Prototype
+
+**₹1,000**
+
+A more developed option for presenting an idea, validating a concept, or creating an early digital experience.
+
+### Business
+
+**₹5,000**
+
+A complete option for businesses looking for a professional online presence tailored to their needs.
+
+> Final project requirements and pricing may vary depending on the requested scope and functionality.
+
+---
+
+## Our Approach
+
+We focus on a straightforward process:
+
+**Discuss → Plan → Design → Build → Deliver**
+
+The goal is to keep communication clear while creating a website that fits the client's requirements.
+
+---
+
+## Who We Work With
+
+BuiltByNix&Co can work with:
+
+* Small businesses
+* Startups
+* Personal brands
+* Creators
+* Students
+* Organizations
+* Local businesses
+* Individuals with custom website requirements
+
+---
+
+## Why BuiltByNix&Co?
+
+We focus on creating websites that are:
+
+**Professional**
+Designed to establish a credible digital presence.
+
+**Responsive**
+Built to provide a consistent experience across modern devices.
+
+**Purposeful**
+Every section is designed around the website's intended goal.
+
+**Distinctive**
+We avoid generic layouts and aim for an identity that fits each project.
+
+**Client-focused**
+Projects are shaped around the client's requirements rather than a one-size-fits-all approach.
+
+---
+
+## Request a Website
+
+Interested in working with BuiltByNix&Co?
+
+Visit our website to explore our services and submit a website request.
+
+### [Start a Project →](https://builtbynix-co.vercel.app/)
+
+---
+
+## Connect
+
+**Website:** [BuiltByNix&Co](nihxl-09.github.io/builtbynix-co)
+
+**Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
+
+**GitHub:** [Nihxl-09](https://github.com/Nihxl-09)
+
+---
+
+## Company
+
 **BuiltByNix&Co**
+Premium Web Solutions
 
-*Built with purpose.*
+Founded by **Muhammad Nihal**
 
-© 2026 BuiltByNix&Co. All rights reserved.
+---
+
+© BuiltByNix&Co
